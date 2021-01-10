@@ -1,4 +1,11 @@
 {
   "name": "AzanPro",
-  "displayName": "AzanPro"
+  "displayName": "AzanPro",
+
+  "expo": {
+    "name": "AzanPro",
+    "slug": "AzanPro"
+  }
 }
+
+
